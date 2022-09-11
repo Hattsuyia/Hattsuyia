@@ -2,8 +2,8 @@
 
 - 🔭 Aspirante a programador, atualmente estudando Java
 <div>
-<img heigth="180em" src= "https://github-readme-stats.vercel.app/api?username=Hattsuyia&show_icons=true&theme=cobalt"/>
-<img heigth="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hattsuyia&layout=compact&theme=cobalt"/>
+<img width="42%" src= "https://github-readme-stats.vercel.app/api?username=Hattsuyia&show_icons=true&theme=cobalt"/>
+<img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hattsuyia&layout=compact&theme=cobalt"/>
 </div>
 
 <div style = "display: inline_block"><br>
