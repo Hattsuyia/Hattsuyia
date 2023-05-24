@@ -3,7 +3,7 @@
 - 🔭 Aspirante a programador, atualmente estudando Java
 <div>
 <img width="42%" src= "https://github-readme-stats.vercel.app/api?username=Hattsuyia&show_icons=true&theme=cobalt&include_all_commits=true&count_private_commits=true"/>
-<img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hattsuyia&layout=compact&theme=cobalt"/>
+<img width="38%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hattsuyia&layout=compact&theme=cobalt"/>
 </div>
 
 <div style = "display: inline_block"><br>
